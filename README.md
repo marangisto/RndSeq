@@ -1,0 +1,2 @@
+# RndSeq
+Random Sequence Generator
